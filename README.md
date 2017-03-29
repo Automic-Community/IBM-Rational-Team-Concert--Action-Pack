@@ -9,7 +9,7 @@ http://github.com/Automic-Community/IBM-Rational-Team-Concert--Action-Pack
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_IBM_RTC_1.0.0.zip
+								*PCK.CUSTOM_IBM_RTC_1.0.1.zip
 								
 								*actions.JPG
 								
@@ -32,6 +32,8 @@ Documenation and Instructions
 ---
 
 <p>IBM Rational Team Concert (RTC) is a software development team collaboration tool, part of IBM's Jazz/ALM suite.<br />It provides a collaborative environment that software development teams use to manage all aspects of their work,<br />manage code, builds, plan project and sprints, and track work.<br /><br />This action pack let you get, update and create RTC Workitems.</p>
+<p>&nbsp;</p>
+<p>Available Actions:<br />- Get WorkItem<br />- Create WorkItem<br />- Update WorkItem<br />- Get WorkItem Status<br />- Update WorkItem Status<br /><br />Compatibility:<br />Tested with RTC 4.0.x and ARA v12<br />Requires: <br />- Windows Agent<br />- Powershell<br />- Curl</p>
 
 Copyright and License
 ---
